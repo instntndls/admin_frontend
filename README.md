@@ -1,6 +1,15 @@
 # admin_frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+Admin panel for USparq
+
+|![image](https://github.com/instntndls/admin_frontend/assets/42333829/787dd312-2fe1-45ae-9e70-47e0345f80a5)|![image](https://github.com/instntndls/admin_frontend/assets/42333829/a27d5f02-f96d-411c-beb5-49ffa843d782)|
+|-|-|
+
+
+
+
+
+
 
 ## Recommended IDE Setup
 
