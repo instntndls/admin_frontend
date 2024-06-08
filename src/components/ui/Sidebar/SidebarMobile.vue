@@ -28,13 +28,6 @@ import { useUserStore } from "@/stores/user";
       </Button>
     </RouterLink>
 
-    <RouterLink to="/app/feedback">
-      <Button variant="ghost" class="Button">
-        <MessageCircleWarningIcon />
-        <span class="ButtonLinkText">Фидбэк</span>
-      </Button>
-    </RouterLink>
-
     <RouterLink to="/app/api">
       <Button variant="ghost" class="Button">
         <FileJsonIcon />
