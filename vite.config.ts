@@ -10,6 +10,7 @@ import autoprefixer from "autoprefixer"
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/admin_frontend/',
   css: {
     postcss: {
       plugins: [tailwind(), autoprefixer()],
