@@ -32,7 +32,7 @@ export default defineConfig({
         description: 'WSpark Admin page',
         display: 'standalone',
         orientation: 'portrait',
-        start_url: '/',
+        start_url: '/admin_frontend/',
         theme_color: '#f5f5f5',
         background_color: '#f5f5f5',
         icons: [
