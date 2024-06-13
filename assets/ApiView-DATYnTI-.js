@@ -1,1 +1,0 @@
-import{i as o,o as s,a}from"./index-BhptfPsR.js";const l={},e={class:"w-full h-full",src:"https://backend.usparq.com/docs",sandbox:"allow-scripts allow-same-origin allow-popups allow-forms allow-popups-to-escape-sandbox allow-downloads allow-modals"};function c(r,t){return s(),a("iframe",e)}const p=o(l,[["render",c]]);export{p as default};
