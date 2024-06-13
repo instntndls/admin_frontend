@@ -27,13 +27,6 @@ import { NetworkIcon, HomeIcon, FileJsonIcon, MessageCircleWarningIcon, Flag } f
       </Button>
     </RouterLink>
 
-    <RouterLink to="/app/feedback">
-      <Button variant="ghost" class="ButtonLink">
-        <MessageCircleWarningIcon />
-        <span class="ButtonLinkText">Фидбэк</span>
-      </Button>
-    </RouterLink>
-
     <RouterLink to="/app/api">
       <Button variant="ghost" class="ButtonLink">
         <FileJsonIcon />
